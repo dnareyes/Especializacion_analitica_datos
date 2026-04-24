@@ -1,0 +1,6 @@
+-- BigQuery run order (manual)
+-- 1) Execute: sql/bigquery/01_create_schema_bigquery.sql
+-- 2) Edit CSV URI in: sql/bigquery/02_load_from_gcs_bigquery.sql
+-- 3) Execute: sql/bigquery/02_load_from_gcs_bigquery.sql
+-- 4) Execute: sql/bigquery/03_quality_checks_bigquery.sql
+-- 5) Execute: sql/bigquery/04_analysis_queries_bigquery.sql

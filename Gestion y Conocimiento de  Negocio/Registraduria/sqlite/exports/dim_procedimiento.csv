@@ -1,0 +1,4 @@
+procedure_key,procedure_type,procedure_group,is_interruption,created_at
+1,Inicial,Normal,0,2026-04-22 20:01:39
+2,Prorroga,Extension,0,2026-04-22 20:01:39
+3,Interrumpir,Interrupcion,1,2026-04-22 20:01:39

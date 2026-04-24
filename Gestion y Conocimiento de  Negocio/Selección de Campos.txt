@@ -1,0 +1,7 @@
+Venta ID - string
+Fecha_ISO - date
+Cliente_Nombre - string
+Cliente_Edad - int
+Monto_USD - double
+Flag_Fraude - boolean
+
