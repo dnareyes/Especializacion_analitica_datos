@@ -8,6 +8,7 @@ Fundamentos\ Analítica\ de\ Datos/Datos/*.csv
 Gestion\ y\ Conocimiento\ de\ \ Negocio/data/*.csv
 Gestion\ y\ Conocimiento\ de\ \ Negocio/Registraduria/*.csv
 Gestion\ y\ Conocimiento\ de\ \ Negocio/Registraduria/sqlite/exports/*.csv
+Estadística para analitica de datos/data/raw/Breast_GSE45827.csv
 
 # Python
 __pycache__/
@@ -44,3 +45,4 @@ wheels/
 # OS
 .DS_Store
 Thumbs.db
+
