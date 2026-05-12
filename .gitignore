@@ -1,0 +1,46 @@
+# Data files - ignore all large files
+# Keep only scripts, code, and documentation
+Estadística\ para\ analitica\ de\ datos/*.csv
+Estadística\ para\ analitica\ de\ datos/*.csv.gz
+Estadística\ para\ analitica\ de\ datos/eda_outputs/*.csv
+Estadística\ para\ analitica\ de\ datos/eda_outputs/*.csv.gz
+Fundamentos\ Analítica\ de\ Datos/Datos/*.csv
+Gestion\ y\ Conocimiento\ de\ \ Negocio/data/*.csv
+Gestion\ y\ Conocimiento\ de\ \ Negocio/Registraduria/*.csv
+Gestion\ y\ Conocimiento\ de\ \ Negocio/Registraduria/sqlite/exports/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
